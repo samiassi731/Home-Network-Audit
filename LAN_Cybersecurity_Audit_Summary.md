@@ -27,7 +27,7 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 - Implemented VPN to encrypt all external traffic  
 
 ### Device Verification & Integrity
-- Applied latest OS/firmware updates and ran full antivirus scans to ensure device hygiene  
+- Applied latest OS/firmware updates and ran full antivirus scans to ensure device safety 
 - Reviewed and removed untrusted or risky browser extensions to reduce attack surface  
 - Enabled MFA for confidential files to enhance data protection  
 - Implemented Fing fingerprinting to improve device identification and create detailed profiles for connected devices  
