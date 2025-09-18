@@ -30,7 +30,7 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 - Applied latest OS/firmware updates and ran full antivirus scans to ensure device hygiene  
 - Reviewed and removed untrusted or risky browser extensions to reduce attack surface  
 - Enabled MFA for confidential files to enhance data protection  
-- **Implemented Fing fingerprinting** to improve device identification and create detailed profiles for connected devices  
+- Implemented Fing fingerprinting to improve device identification and create detailed profiles for connected devices  
 - Established incident response procedures with SHA-256 file integrity checks and regular backups  
 
 
