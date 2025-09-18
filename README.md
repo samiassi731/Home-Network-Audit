@@ -13,7 +13,7 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 
 ## Methodology
 - Conducted comprehensive network scans to identify open ports, active devices, and running services  
-- Verified device legitimacy and IP reputation using **Wireshark with MAC OUI lookup**, DHCP/ARP tables, and AbuseIPDB  
+- Verified device legitimacy and IP reputation using Wireshark with MAC OUI lookup, DHCP/ARP tables, and AbuseIPDB  
 - Tested TCP connections for stability and security, including DNS verification of all connections  
 - Documented vulnerabilities and implemented mitigations  
 
@@ -21,7 +21,7 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 
 ### Network & Router Hardening
 - Secured WAN ports and disabled login to router interface from the WAN  
-- **Enabled and configured device firewall to block all inbound connections except essential services**  
+- Enabled and configured device firewall to block all inbound connections except essential services
 - Disabled WPS and unsecured HTTP access; implemented HTTPS for router admin interface and ordered router upgrade  
 - Segmented guest devices into a separate VLAN to isolate visitors from the main network  
 - Implemented VPN to encrypt all external traffic  
