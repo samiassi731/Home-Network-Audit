@@ -20,6 +20,8 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 ## Key Improvements & Results
 
 ### Network & Router Hardening
+- Identified all devices on the network by cross-checking against DHCP and ARP cache tables, and verified operating systems using MAC OUI lookups
+- Verified device TCP connections were safe by performing reverse DNS lookups and checking IP reputations
 - Secured WAN ports and disabled login to router interface from the WAN  
 - Enabled and configured device firewall to block all inbound connections except essential services
 - Disabled WPS and unsecured HTTP access; implemented HTTPS for router admin interface and ordered router upgrade  
