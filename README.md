@@ -33,6 +33,5 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 - **Implemented Fing fingerprinting** to improve device identification and create detailed profiles for connected devices  
 - Established incident response procedures with SHA-256 file integrity checks and regular backups  
 
-### Tra
 
 
