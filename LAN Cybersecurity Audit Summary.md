@@ -23,6 +23,7 @@ Assess the security of a home LAN network, identify vulnerabilities, and impleme
 - Identified all devices on the network by cross-checking against DHCP and ARP cache tables, and verified operating systems using MAC OUI lookups
 - Verified device TCP connections were safe by performing reverse DNS lookups and checking IP reputations
 - Ensured router security with WPA2 encryption, implementing WPA3 as soon as possible, and proficient in using the admin gateway interface for configuration
+- Updated Wi-Fi and admin gateway passwords to 8+ characters to mitigate brute-force attack risks
 - Secured WAN ports and disabled login to router interface from the WAN  
 - Enabled and configured device firewall to block all inbound connections except essential services
 - Disabled WPS and unsecured HTTP access; implemented HTTPS for router admin interface and ordered router upgrade  
