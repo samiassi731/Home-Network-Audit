@@ -19,17 +19,18 @@ Assess the security of a home LAN network, identify potential vulnerabilities, a
 - Applied security improvements, including port hardening, VPN deployment, encrypted internal/remote communications, and guest network segmentation via VLAN
 
 ## Key Improvements & Results
-- Configured to router WAN ports block unnecessary external access while keeping LAN ports safe  
-- Router admin interface secured with HTTPS, upgraded router model was ordered; VPN implemented to encrypt internal and remote traffic  
+- Router's WAN ports configured to block unnecessary external access while keeping LAN ports safe  
+- Router admin interface secured with HTTPS, upgraded router model was ordered; VPN implemented to encrypt external data/traffic
+- The network's ONT physical placement and security were verified  
 - TCP connections verified for stability and security 
 - Enabled and configured device firewall to block all inbound connections except essential services 
-- Ran full antivirus deep scan to ensure devices were clean  
-- Removed unnecessary or risky browser extensions to reduce attack surface  
+- Ran full antivirus deep scan to ensure device was clean  
+- Removed unnecessary or risky browser extensions to reduce attack surface
+- Implemented device fingerprinting to improve identification of devices on the network, providing detailed profiles for each connected device.
 - Devices and router updated to latest firmware/OS versions  
 - Critical files hashed for future integrity verification  
 - Guest devices segmented into a separate VLAN to isolate visitors from the main network
 - Established incident response procedures:
-    - Resetting router to obtain a new dynamic IP if intrusion occurs  
     - Verified integrity of critical files using SHA-256 hashing for incident preparedness and recovery
     - Implementing regular data backups for recovery in case of compromise
 
