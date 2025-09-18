@@ -6,7 +6,7 @@
 Assess the security of a home LAN network, identify potential vulnerabilities, and implement improvements to strengthen overall network security.
 
 ## Tools & Technologies
-- **Network Scanning & Analysis:** Nmap, ARP, ICMP, TCP/UDP scanning  
+- **Network Scanning & Analysis:** Nmap, ARP, ICMP, TCP/UDP scanning & device fingerprinting 
 - **Device & IP Verification:** DHCP analysis, AbuseIPDB, MAC OUI lookup  
 - **Scripting & Automation:** Bash scripting  
 - **Network Security Enhancements:** Router administration, VPN setup, OS updates, hashing for integrity verification, VLAN segmentation
